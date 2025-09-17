@@ -1,0 +1,16 @@
+﻿bin/
+obj/
+publish/
+Debug/
+Release/
+
+.vs/
+*.user
+*.suo
+
+*.log
+*.tmp
+
+Properties/PublishProfiles/
+Properties/ServiceDependencies/
+wwwroot/lib/
