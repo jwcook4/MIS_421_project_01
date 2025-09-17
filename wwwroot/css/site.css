@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center; /* horizontal center */
+    align-items: center; /* vertical center */
+    min-height: 100vh; /* full screen height */
+    background: #808080; /* solid grey background */
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    color: #fff;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 0;
+}
